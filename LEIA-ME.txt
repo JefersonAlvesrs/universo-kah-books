@@ -1,0 +1,9 @@
+UNIVERSO DA KAH BOOKS — VERSÃO 4
+
+Abra index.html no navegador.
+As 10 capas em img/ estão nomeadas conforme o título de cada livro.
+O banner superior alterna automaticamente entre essas capas a cada 5 segundos; os textos e botões ficam fixos.
+Para trocar capas, atualize os caminhos image em js/script.js.
+Para alterar o link de produto do Mercado Livre, edite mercadoLivreProduto em js/script.js.
+
+V8: banner com 3 capas em movimento contínuo e versão mobile corrigida.
